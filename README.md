@@ -55,9 +55,9 @@ The system provides **role-based dashboards** for Admin, Faculty, and Students, 
   * Attendance
 * Categorization:
 
-  * High Risk ❌
-  * Medium Risk ⚠️
-  * Low Risk ✅
+  * High Risk 
+  * Medium Risk 
+  * Low Risk 
 * Smart suggestions for improvement
 
 ---
