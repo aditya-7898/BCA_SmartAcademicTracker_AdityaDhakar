@@ -139,7 +139,6 @@ This project is for academic and educational purposes.
 ## Final Note
 
 This project demonstrates:
-
 * Full-stack development
 * Real-world system design
 * Clean UI/UX
